@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @montajebii
-- 👀 I’m interested in Html, CSS, Python, CCNA & PHP
-- 🌱 I’m currently learning Html, Python & CCNA
+- 👀 I’m interested in HTML, CSS, Python, CCNA & PHP
+- 🌱 I’m currently learning HTML, Python & CCNA
 - 💞️ I’m looking to collaborate on ANYTHING
 - 📫 How to reach me mohammad.montajebii@gmail.com, https://t.me/ATypicalPersianBoy, https://instagram.com/m.montajebii?igshid=87nygiekzhqa
 
